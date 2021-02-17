@@ -4,12 +4,14 @@
     <test name="Regression" >
       <classes>
           <class name="herokuapp.SliderTest"/>
+          <class name="idealo.SearchTest"/>
       </classes>
     </test>
 
     <test name="Smoke">
         <classes>
             <class name="herokuapp.ForgotPasswordTest"/>
+<!--            <class name="herokuapp.HoversTest"></class>-->
         </classes>
     </test>
 </suite>
